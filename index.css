@@ -27,10 +27,6 @@ li:last-child {
   grid-row: 1 / 2;
 }
 
-li:hover ~ li p {
-  animation: wave-animation 0.3s infinite;
-}
-
 /* below is just for demo styling */
 
 div {
